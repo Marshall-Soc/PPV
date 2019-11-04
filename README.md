@@ -252,7 +252,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 	clear
 	use "rright_repo.dta"
 	
-![Plot #1](images/ex1plot.png){width="50%"}
+![Plot #1](images/ex1plot.png)
 
 ## Plot #2
 
@@ -293,7 +293,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 	graph export ex2plot.png, replace
 
 
-![Plot #2](images/ex2plot.png){width="50%"}
+![Plot #2](images/ex2plot.png)
 
 ## Plot #3
 
@@ -340,7 +340,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 		constant) saving(ex3plot.gph, replace)
 	graph export ex3plot.png, replace
 		
-![Plot #3](images/ex3plot.png){width="50%"}
+![Plot #3](images/ex3plot.png)
 
 ## Plot #4
 
@@ -374,7 +374,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 	#delimit cr
 	graph export ex4plot.png, replace
 
-![Plot #4](images/ex4plot.png){width="50%"}
+![Plot #4](images/ex4plot.png)
 
 ## Plot #5
 
@@ -422,7 +422,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 		age ?.relig2 income ?.industry constant) saving(ex51plot.gph, replace)
 	graph export ex51plot.png, replace
 	
-![Plot #5a](images/ex51plot.png){width="50%"}
+![Plot #5a](images/ex51plot.png)
 
 ### Plot #5b
 
@@ -508,7 +508,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 	#delimit cr	
 	graph export ex52plot.png, replace
 	
-![Plot #5b](images/ex52plot.png){width="50%"}
+![Plot #5b](images/ex52plot.png)
 
 ## Plot #6
 
@@ -583,7 +583,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 	#delimit cr
 	graph export ex7plot.png, replace
 	
-![Plot #7](images/ex7plot.png){width="50%"}
+![Plot #7](images/ex7plot.png)
 
 ## Plot #8
 
@@ -641,7 +641,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 	#delimit cr
 	graph export ex8plot.png, replace
 	
-![Plot #8](images/ex8plot.png){width="50%"}
+![Plot #8](images/ex8plot.png)
 
 And that's it!
 
