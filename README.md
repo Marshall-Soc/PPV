@@ -563,7 +563,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 		ytitle("Political Engagement (Standardized)") saving(ex6plot.gph, replace)
 	graph export ex6plot.png, replace
 	
-![Plot #6](images/ex6plot.png){width="50%"}
+![Plot #6](images/ex6plot.png)
 
 ## Plot #7
 
