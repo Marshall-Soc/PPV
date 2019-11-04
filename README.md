@@ -252,7 +252,7 @@ Now we'll generate the models and associated PPV plots (but a coefficient plot f
 	clear
 	use "rright_repo.dta"
 	
-![Plot #1](ex1plot.png){width="50%"}
+![Plot #1](images/ex1plot.png){width="50%"}
 
 ## Plot #2
 
