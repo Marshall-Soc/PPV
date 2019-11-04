@@ -1,5 +1,6 @@
 # Replication Repository for "Visualizing Strategies for Regression Estimates with Randomization Inference"
 [Marshall A. Taylor](https://www.marshalltaylor.net)
+
 Forthcoming in the *Stata Journal*
 
 # Setup
