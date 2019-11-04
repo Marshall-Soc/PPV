@@ -31,6 +31,7 @@ Now let's give the variables some descriptive labels.
 	label def cdanger 0 "some/little danger" 1 "very great/great danger"
 	label var cdanger "Communist danger at present time?"
 	label values cdanger cdanger
+	
 		//Letter-writing
 	gen letter = .
 	replace letter = 0 if v13==4
